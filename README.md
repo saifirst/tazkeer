@@ -15,7 +15,7 @@ Tazkeer is a simple Flutter application designed to provide users with a collect
 
 ## 📍 Design
 
-This application has been completely designed and developed by me. You can access to the design file by this [LINK](https://www.figma.com/design/iLumxVjxAdij6XdRuumIhH/Tazkeer?node-id=0-1&t=vB90dbGguZUJO7zL-1)
+This application has been completely designed and developed by me. You can access the design file by this [LINK](https://www.figma.com/design/iLumxVjxAdij6XdRuumIhH/Tazkeer?node-id=0-1&t=vB90dbGguZUJO7zL-1)
 
 ## 📍 Installation
 
@@ -35,6 +35,10 @@ This application has been completely designed and developed by me. You can acces
    ```bash
    flutter run
    ```
+
+## 📍 For Android users
+
+You can download the app directly on your phone by this [LINK](https://www.mediafire.com/file/m4oyeksbfaxsg1f/app-armeabi-v7a-release.apk/file)
 
 ## 📍 Contact
 
