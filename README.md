@@ -1,3 +1,7 @@
+![Mockup - 1](https://github.com/saifirst/tazkeer/assets/124555800/991b064e-9ddb-4a44-98e4-7314fe79c708)![Mockup - 2](https://github.com/saifirst/tazkeer/assets/124555800/121a7b2a-92bf-4150-827c-a6d2a400d455)
+
+
+
 # Tazkeer App
 
 ## 📍 Overview
